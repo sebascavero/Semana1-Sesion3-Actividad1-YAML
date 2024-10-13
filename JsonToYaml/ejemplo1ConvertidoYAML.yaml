@@ -1,0 +1,26 @@
+- _id: "670091ebce3f8c63d728f3a7"
+  index: 0
+  guid: "a5bfbb7b-19cf-4102-9c5c-da9983ecca6e"
+  isActive: false
+  balance: "$2,880.17"
+  picture: "http://placehold.it/32x32"
+  age: 21
+  eyeColor: "green"
+  name: "Muriel Burke"
+  gender: "female"
+  company: "DOGTOWN"
+  email: "murielburke@dogtown.com"
+  phone: "+1 (937) 416-3527"
+  address: "160 Columbus Place, Hampstead, Idaho, 1714"
+  about: "Culpa est ad sint laboris velit officia culptation ut nulla non reprehe"
+  registered: "2023-08-08T02:30:51 +05:00"
+  latitude: 54.457744
+  longitude: 117.525558
+  tags": ["deserunt", "duis", "sunt", "et", "dolor", "ad", "anim"]
+  friends":
+    - id: 0
+      name: "Leona Moody"
+    - id: 1
+      name: "Tammy Burns"
+    - id: 2
+      name": "Jewel Henderson"

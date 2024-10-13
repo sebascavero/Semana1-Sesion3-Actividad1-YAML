@@ -1,0 +1,27 @@
+juegos:
+  - "Minecraf"
+  - "Pes 2013"
+  - "God of War"
+
+JuegosPorConsola:
+  - PS1:
+    - Pepsiman
+    - Jackie Chan
+    - Spiderman
+  - PS2:
+    - "dbzbt3"
+    - "Pes 2011"
+    - "Tekken 5"
+  - PS3: ["Pes 2013", "Batman Arkham Asylum", "The Amazing Spiderman"]
+
+
+JuegosDetalle:
+  - PS1:
+    - Juego: "Pepsiman"
+      Lanzamiento: 2001
+      Desarrollador: "Bandai"
+      Calificacion: 5
+    - Juego: "Spiderman"
+      Lanzamiento: 2002
+      Desarrollador: "Insomnia"
+      Calificacion: 10

@@ -1,0 +1,92 @@
+{
+    "result": [
+      {
+        "message": "Hello, Ara! Your order number is: #7",
+        "phoneNumber": "708-215-5090 x50302",
+        "phoneVariation": "+90 361 398 10 41",
+        "status": "active",
+        "name": {
+          "first": "Xzavier",
+          "middle": "Sasha",
+          "last": "Hessel"
+        },
+        "username": "Xzavier-Hessel",
+        "password": "WOgkGlxg3JUaX4n",
+        "emails": [
+          "Darius.Kris@example.com",
+          "Sophie83@example.com"
+        ],
+        "location": {
+          "street": "8573 Washington Avenue",
+          "city": "Boyershire",
+          "state": "Nevada",
+          "country": "Colombia",
+          "zip": "59951-0002",
+          "coordinates": {
+            "latitude": "-51.3129",
+            "longitude": "131.5156"
+          }
+        },
+        "website": "https://double-intestine.net",
+        "domain": "suspicious-mailman.net",
+        "job": {
+          "title": "National Brand Consultant",
+          "descriptor": "Direct",
+          "area": "Intranet",
+          "type": "Coordinator",
+          "company": "MacGyver, Sawayn and Weissnat"
+        },
+        "creditCard": {
+          "number": "5336-8522-8263-7659",
+          "cvv": "601",
+          "issuer": "visa"
+        },
+        "uuid": "e9b517a5-0da7-40be-a587-0d068144c8f4",
+        "objectId": "6700922c69fe875d3c36a52f"
+      },
+      {
+        "message": "Hello, Estefania! Your order number is: #4",
+        "phoneNumber": "349.409.4561 x84423",
+        "phoneVariation": "+90 334 885 10 32",
+        "status": "disabled",
+        "name": {
+          "first": "Wyman",
+          "middle": "Bowie",
+          "last": "Yundt"
+        },
+        "username": "Wyman-Yundt",
+        "password": "WbePY7WyJsxfZ3d",
+        "emails": [
+          "Rosemary.Ullrich22@gmail.com",
+          "Paige.Hermann12@example.com"
+        ],
+        "location": {
+          "street": "5661 Norfolk Road",
+          "city": "Ralphtown",
+          "state": "West Virginia",
+          "country": "Aruba",
+          "zip": "29857-6663",
+          "coordinates": {
+            "latitude": "-74.9372",
+            "longitude": "-6.4623"
+          }
+        },
+        "website": "https://stormy-toad.biz/",
+        "domain": "superficial-socialism.org",
+        "job": {
+          "title": "Corporate Research Specialist",
+          "descriptor": "Lead",
+          "area": "Research",
+          "type": "Specialist",
+          "company": "Harvey - Keebler"
+        },
+        "creditCard": {
+          "number": "3783-936571-09743",
+          "cvv": "193",
+          "issuer": "maestro"
+        },
+        "uuid": "1bee28a2-d470-4a46-baa6-9c840ada2e0f",
+        "objectId": "6700922c69fe875d3c36a530"
+      }
+    ]
+  }
